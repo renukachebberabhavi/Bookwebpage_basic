@@ -1,0 +1,3 @@
+class Bookmanage < ApplicationRecord
+    
+end

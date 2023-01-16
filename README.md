@@ -7,7 +7,10 @@ bookmanage route
     for  add/delete/update books
 
 booksearch route
-    for search book by name/author
+    for search book by author
+
+booksearchbyname route
+    for search book by name
 
 verified from Postman        
 
